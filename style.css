@@ -1,0 +1,13 @@
+*{
+    box-sizing: border-box;
+    padding: 0%;
+    margin: 0%;
+}
+.card-hover{
+    transition: 1s linear;
+}
+.card-hover:hover{
+    transform: translateY(-10%);
+    background:#8BDBF5;
+    color: white;
+}
